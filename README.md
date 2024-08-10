@@ -1,5 +1,5 @@
-<head land="en">
-  <head>
+<html>
+  <head land="en">
     <title>New page!</title>
     <meta name="viewport" content="width=device-width, ititial-scale=1.0">
   </head>
